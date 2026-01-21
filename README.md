@@ -29,13 +29,10 @@ If it can be automated or made smarter, I’m probably interested.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aiscript,pytorch,tensorflow,c,cpp,python,cs,ts,react,vite,next" />
+    <img src="https://skillicons.dev/icons?i=aiscript,pytorch,tensorflow,c,cpp,python,cs,ts,react,vite,next,tailwind,mui,figma" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,mui,figma,nodejs,express,nest,fastapi,django,flutter,kotlin,androidstudio" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,dotnet,jenkins,linux,aws,azure,vercel,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,django,flutter,kotlin,androidstudio,postgres,docker,dotnet,jenkins,aws,azure" />
   </a>
 </p>
 
