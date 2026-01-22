@@ -22,8 +22,6 @@ If it can be automated or made smarter, I’m probably interested.
 * Strong background in **backend and infrastructure**, with hands-on experience in **FastAPI**, **Django**, **NestJS**, **PostgreSQL**, **Redis**, **Docker**, **Linux**, **AWS**, and **Vercel**.
 * Focused on building systems **end to end** — from **model integration** and **APIs** to **UI**, **data flow**, and **deployment**, with an emphasis on **scalability**, **performance**, and **maintainability**.
 * Comfortable leading projects, mentoring engineers, and making technical decisions, while keeping solutions **clean**, **practical**, and **production-ready**.
-<br />
-
 
 ### 🛠️ **Tech Stack & Specialties**
 
