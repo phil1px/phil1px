@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](assets/final_banner.png)
+![Profile Banner](assets/final_showcase.png)
 
 # Hi there, this is Philipx! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
